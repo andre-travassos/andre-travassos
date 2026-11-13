@@ -22,7 +22,7 @@ int main()
 
   char* technologies[] =
 {
-  "HTML", "C", "Git", 
+  "HTML", "C", "Git", "Python", 
 };
 
   printf("Welcome to my profile!\n");
